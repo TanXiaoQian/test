@@ -7,3 +7,4 @@ Createing a new branch is quick
 Createing a new branch is viry simple
 
 新的修改
+Git is a free software
